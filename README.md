@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Chopra</h1>
+<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg" width=100%>
 <h3 align="center">A passionate for to do code,I am enthusiastic to work hard to achieve the goals.</h3>
 
 - 🔭 I’m currently working on **web based projects**
